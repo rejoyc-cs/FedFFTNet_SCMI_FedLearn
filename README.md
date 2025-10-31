@@ -32,6 +32,16 @@ Laplacian based patching including distributing between global server and client
 
 ---
 
+### 🖼️ Patching Overview
+
+<p align="center">
+  <img src="images/patching_method.png" alt="Patching Method" width="600"/>
+</p>
+
+*Figure 1: Laplacian-based image patching and distribution across clients.*
+
+---
+
 ## 🧠 Step 2: Model Training
 
 Once patching is complete, the resulting folder (e.g., `patches/`) should contain `initial` (if any) , `clients`, and `test` directories.
@@ -51,6 +61,16 @@ Once patching is complete, the resulting folder (e.g., `patches/`) should contai
 | `learning_rate`    | float  | `0.001`       | Learning rate                                          |
 | `device`           | str    | `cuda:0`      | Device used for training (`cuda:i` or `cpu`) 
 
+
+---
+
+### 🧩 Model Architecture
+
+<p align="center">
+  <img src="images/fedfft_model_architecture.png" alt="FedFFTNet Model Architecture" width="650"/>
+</p>
+
+*Figure 2: Overview of the proposed FedFFTNet architecture used for federated learning.*
 
 ---
 
