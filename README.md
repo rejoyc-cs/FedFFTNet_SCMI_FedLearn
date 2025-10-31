@@ -35,7 +35,7 @@ Laplacian based patching including distributing between global server and client
 ### 🖼️ Patching Overview
 
 <p align="center">
-  <img src="images/patching_method.png" alt="Patching Method" width="600"/>
+  <img src="images/patching_method.png" alt="Patching Method" width="400"/>
 </p>
 
 *Figure 1: Laplacian-based image patching and distribution across clients.*
@@ -67,7 +67,7 @@ Once patching is complete, the resulting folder (e.g., `patches/`) should contai
 ### 🧩 Model Architecture
 
 <p align="center">
-  <img src="images/fedfft_model_architecture.png" alt="FedFFTNet Model Architecture" width="650"/>
+  <img src="images/fedfft_model_architecture.png" alt="FedFFTNet Model Architecture" width="550"/>
 </p>
 
 *Figure 2: Overview of the proposed FedFFTNet architecture used for federated learning.*
