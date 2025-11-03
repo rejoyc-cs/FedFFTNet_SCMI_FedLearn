@@ -77,7 +77,9 @@ Once patching is complete, the resulting folder (e.g., `patches/`) should contai
 ## ✅ Notes
 
 - This code will be used for academic and research purpose only.
-- Do cite the paper if using the method: Accepted on IEEE Transactions on Artificial Intelligence. (DOI and BibText will be made available soon)
+- Do cite the paper if using the method: Accepted on IEEE Transactions on Artificial Intelligence. DOI: 10.1109/TAI.2025.3629009
+
+
 
 ---
 
