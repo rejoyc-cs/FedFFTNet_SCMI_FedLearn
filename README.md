@@ -77,9 +77,17 @@ Once patching is complete, the resulting folder (e.g., `patches/`) should contai
 ## ✅ Notes
 
 - This code will be used for academic and research purpose only.
-- Do cite the paper if using the method: Accepted on IEEE Transactions on Artificial Intelligence. DOI: 10.1109/TAI.2025.3629009
-
-
-
+- Do cite the paper if using the method: Accepted on IEEE Transactions on Artificial Intelligence.
+- @ARTICLE{11229953,
+  author={Chakraborty, Rejoy and Goyal, Puneet},
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={Source Camera Model Identification via Federated Learning using Laplacian-based Patches}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Noise;Cameras;Data privacy;Feature extraction;Training;Deep learning;Smart phones;Convolutional neural networks;Federated learning;Computational modeling;Federated Learning;Laplacian;Patch Extraction;Source Camera Model Identification;Deep Learning},
+  doi={10.1109/TAI.2025.3629009}
+}
 ---
 
