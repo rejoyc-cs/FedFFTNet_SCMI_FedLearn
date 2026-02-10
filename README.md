@@ -87,6 +87,5 @@ This code will be used for academic and research purpose only. Do cite the paper
   year={2025},
   publisher={IEEE}
 }
-}
 ---
 
