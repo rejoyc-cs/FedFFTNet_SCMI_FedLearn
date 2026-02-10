@@ -80,17 +80,13 @@ This code will be used for academic and research purpose only. Do cite the paper
  if using the method:
 
 ```bibtex
-@ARTICLE{11229953,
+@article{chakraborty2025source,
+  title={Source Camera Model Identification via Federated Learning using Laplacian-based Patches},
   author={Chakraborty, Rejoy and Goyal, Puneet},
-  journal={IEEE Transactions on Artificial Intelligence}, 
-  title={Source Camera Model Identification via Federated Learning using Laplacian-based Patches}, 
+  journal={IEEE Transactions on Artificial Intelligence},
   year={2025},
-  volume={},
-  number={},
-  pages={1-10},
-  keywords={Noise;Cameras;Data privacy;Feature extraction;Training;Deep learning;Smart phones;Convolutional neural networks;Federated learning;Computational modeling;Federated Learning;Laplacian;Patch Extraction;Source Camera Model Identification;Deep Learning},
-  doi={10.1109/TAI.2025.3629009}
-
+  publisher={IEEE}
+}
 }
 ---
 
